@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialCalendarLibrary", "MaterialCalendarLibrary\MaterialCalendarLibrary.csproj", "{5EF51477-262D-4614-B25A-82F75E6E1489}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialCalendarSample", "MaterialCalendarSample\MaterialCalendarSample.csproj", "{D90185D6-7069-43FB-A367-E3DD83E7AA13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{5EF51477-262D-4614-B25A-82F75E6E1489}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EF51477-262D-4614-B25A-82F75E6E1489}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EF51477-262D-4614-B25A-82F75E6E1489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90185D6-7069-43FB-A367-E3DD83E7AA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90185D6-7069-43FB-A367-E3DD83E7AA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90185D6-7069-43FB-A367-E3DD83E7AA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90185D6-7069-43FB-A367-E3DD83E7AA13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

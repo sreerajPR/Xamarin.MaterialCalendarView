@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="MaterialCalendarLibrary/MaterialCalendarLibrary.csproj">
+﻿<Properties StartupItem="MaterialCalendarSample/MaterialCalendarSample.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MaterialCalendarLibrary/Transforms/Metadata.xml">
     <Files>
