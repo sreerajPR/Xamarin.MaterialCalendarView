@@ -1,6 +1,7 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
+using MaterialCalendarLibrary;
 
 namespace MaterialCalendarSample
 {
@@ -13,7 +14,7 @@ namespace MaterialCalendarSample
 		{
 			base.OnCreate (savedInstanceState);
 
-			var materialCalendar= new MaterialCalendarLibrary.MaterialCalendarView(this);
+			var materialCalendar= new MaterialCalendarView(this);
 
 			SetContentView (materialCalendar);
 		}
