@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Paths>
-  <ManifestDocuments />
-  <NativeLibraries />
-  <Jars>
-    <Jar>obj/Release/__library_projects__/MaterialCalendarLibrary/library_project_imports/material_calendar.jar</Jar>
-  </Jars>
-</Paths>
