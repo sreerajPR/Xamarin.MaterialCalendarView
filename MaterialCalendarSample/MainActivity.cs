@@ -1,6 +1,8 @@
 ﻿using Android.OS;
 using Android.App;
 using MaterialCalendarLibrary;
+using Android.Graphics.Drawables;
+using Android.Graphics;
 
 namespace MaterialCalendarSample
 {
@@ -13,9 +15,26 @@ namespace MaterialCalendarSample
 		{
 			base.OnCreate (savedInstanceState);
 
-			var materialCalendar= new MaterialCalendarView(this);
+			SetContentView (Resource.Layout.Main);
 
-			SetContentView (materialCalendar);
+			var materialCalendar= FindViewById<MaterialCalendarView>(Resource.Id.calendarView);
+
+			materialCalendar.SelectionMode = MaterialCalendarView.SelectionModeNone;
+
+			materialCalendar.AddDecorator (new CalendarDayViewDecorator ());
+		}
+	}
+	class CalendarDayViewDecorator:Java.Lang.Object,IDayViewDecorator
+	{
+		int pp=0;
+		public bool ShouldDecorate (CalendarDay p0)
+		{
+			return ((++pp) % 2 == 0);
+		}
+
+		public void Decorate (DayViewFacade p0)
+		{
+			p0.SetBackgroundDrawable (new ColorDrawable (Color.LightYellow));
 		}
 	}
 }
