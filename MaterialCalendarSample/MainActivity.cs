@@ -1,6 +1,5 @@
-﻿using Android.App;
-using Android.Widget;
-using Android.OS;
+﻿using Android.OS;
+using Android.App;
 using MaterialCalendarLibrary;
 
 namespace MaterialCalendarSample

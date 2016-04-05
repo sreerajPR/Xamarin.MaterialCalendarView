@@ -1,22 +1,27 @@
 ﻿<Properties StartupItem="MaterialCalendarSample/MaterialCalendarSample.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MaterialCalendarLibrary/Transforms/Metadata.xml">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MaterialCalendarSample/MainActivity.cs">
     <Files>
       <File FileName="MaterialCalendarLibrary/Transforms/Metadata.xml" Line="37" Column="12" />
       <File FileName="MaterialCalendarLibrary/Transforms/EnumFields.xml" Line="1" Column="1" />
       <File FileName="MaterialCalendarLibrary/obj/Release/generated/src/MaterialCalendarLibrary.WeekPagerAdapter.cs" Line="1" Column="1" />
-      <File FileName="MaterialCalendarLibrary/obj/Debug/generated/src/MaterialCalendarLibrary.WeekView.cs" Line="1" Column="1" />
-      <File FileName="MaterialCalendarLibrary/obj/Debug/generated/src/MaterialCalendarLibrary.WeekPagerAdapter.cs" Line="1" Column="1" />
+      <File FileName="MaterialCalendarSample/MainActivity.cs" Line="3" Column="7" />
+      <File FileName="../../../../Projects/MaterialCalendarLibrary/MaterialCalendarLibrary/obj/Release/generated/src/MaterialCalendarLibrary.MaterialCalendarView.cs" Line="505" Column="1" />
+      <File FileName="MaterialCalendarLibrary/obj/Debug/generated/src/MaterialCalendarLibrary.MaterialCalendarView.cs" Line="128" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MaterialCalendarLibrary" expanded="True">
-            <Node name="MaterialCalendarLibrary" expanded="True">
-              <Node name="Packages" expanded="True" selected="True" />
+            <Node name="MaterialCalendarLibrary" expanded="True" selected="True">
+              <Node name="Packages" expanded="True" />
               <Node name="Additions" expanded="True" />
               <Node name="Jars" expanded="True" />
               <Node name="Transforms" expanded="True" />
+            </Node>
+            <Node name="MaterialCalendarSample" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Resources" expanded="True" />
             </Node>
           </Node>
         </State>
