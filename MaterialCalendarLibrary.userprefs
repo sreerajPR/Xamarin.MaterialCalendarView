@@ -1,28 +1,6 @@
 ﻿<Properties StartupItem="MaterialCalendarSample/MaterialCalendarSample.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MaterialCalendarLibrary/Transforms/Metadata.xml">
-    <Files>
-      <File FileName="MaterialCalendarLibrary/Transforms/Metadata.xml" Line="37" Column="12" />
-      <File FileName="MaterialCalendarLibrary/Transforms/EnumFields.xml" Line="1" Column="1" />
-      <File FileName="MaterialCalendarLibrary/obj/Release/generated/src/MaterialCalendarLibrary.WeekPagerAdapter.cs" Line="1" Column="1" />
-      <File FileName="MaterialCalendarLibrary/obj/Debug/generated/src/MaterialCalendarLibrary.WeekView.cs" Line="1" Column="1" />
-      <File FileName="MaterialCalendarLibrary/obj/Debug/generated/src/MaterialCalendarLibrary.WeekPagerAdapter.cs" Line="1" Column="1" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="MaterialCalendarLibrary" expanded="True">
-            <Node name="MaterialCalendarLibrary" expanded="True">
-              <Node name="Packages" expanded="True" selected="True" />
-              <Node name="Additions" expanded="True" />
-              <Node name="Jars" expanded="True" />
-              <Node name="Transforms" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/fingent/Projects/MaterialCalendarLibrary/MaterialCalendarLibrary/obj/Release/generated/src/Com.Prolificinteractive.Materialcalendarview.WeekPagerAdapter.cs" line="39" column="1" />

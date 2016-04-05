@@ -31,6 +31,42 @@ namespace MaterialCalendarSample
 		public partial class Attribute
 		{
 			
+			// aapt resource value: 0x7f010003
+			public const int mcv_arrowColor = 2130771971;
+			
+			// aapt resource value: 0x7f010000
+			public const int mcv_dateTextAppearance = 2130771968;
+			
+			// aapt resource value: 0x7f01000b
+			public const int mcv_firstDayOfWeek = 2130771979;
+			
+			// aapt resource value: 0x7f010002
+			public const int mcv_headerTextAppearance = 2130771970;
+			
+			// aapt resource value: 0x7f010004
+			public const int mcv_leftArrowMask = 2130771972;
+			
+			// aapt resource value: 0x7f010009
+			public const int mcv_monthLabels = 2130771977;
+			
+			// aapt resource value: 0x7f010005
+			public const int mcv_rightArrowMask = 2130771973;
+			
+			// aapt resource value: 0x7f010006
+			public const int mcv_selectionColor = 2130771974;
+			
+			// aapt resource value: 0x7f010007
+			public const int mcv_showOtherDates = 2130771975;
+			
+			// aapt resource value: 0x7f01000a
+			public const int mcv_tileSize = 2130771978;
+			
+			// aapt resource value: 0x7f010008
+			public const int mcv_weekDayLabels = 2130771976;
+			
+			// aapt resource value: 0x7f010001
+			public const int mcv_weekDayTextAppearance = 2130771969;
+			
 			static Attribute()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -41,11 +77,104 @@ namespace MaterialCalendarSample
 			}
 		}
 		
-		public partial class Mipmap
+		public partial class Color
+		{
+			
+			// aapt resource value: 0x7f070000
+			public const int mcv_text_date_dark = 2131165184;
+			
+			// aapt resource value: 0x7f070001
+			public const int mcv_text_date_light = 2131165185;
+			
+			static Color()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Color()
+			{
+			}
+		}
+		
+		public partial class Drawable
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			public const int mcv_action_next = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int mcv_action_previous = 2130837505;
+			
+			static Drawable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Drawable()
+			{
+			}
+		}
+		
+		public partial class Id
+		{
+			
+			// aapt resource value: 0x7f040001
+			public const int all = 2130968577;
+			
+			// aapt resource value: 0x7f040002
+			public const int decorated_disabled = 2130968578;
+			
+			// aapt resource value: 0x7f040003
+			public const int defaults = 2130968579;
+			
+			// aapt resource value: 0x7f040007
+			public const int friday = 2130968583;
+			
+			// aapt resource value: 0x7f040000
+			public const int mcv_pager = 2130968576;
+			
+			// aapt resource value: 0x7f040008
+			public const int monday = 2130968584;
+			
+			// aapt resource value: 0x7f040004
+			public const int none = 2130968580;
+			
+			// aapt resource value: 0x7f040005
+			public const int other_months = 2130968581;
+			
+			// aapt resource value: 0x7f040006
+			public const int out_of_range = 2130968582;
+			
+			// aapt resource value: 0x7f040009
+			public const int saturday = 2130968585;
+			
+			// aapt resource value: 0x7f04000a
+			public const int sunday = 2130968586;
+			
+			// aapt resource value: 0x7f04000b
+			public const int thursday = 2130968587;
+			
+			// aapt resource value: 0x7f04000c
+			public const int tuesday = 2130968588;
+			
+			// aapt resource value: 0x7f04000d
+			public const int wednesday = 2130968589;
+			
+			static Id()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Id()
+			{
+			}
+		}
+		
+		public partial class Mipmap
+		{
+			
+			// aapt resource value: 0x7f030000
+			public const int Icon = 2130903040;
 			
 			static Mipmap()
 			{
@@ -60,11 +189,11 @@ namespace MaterialCalendarSample
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f030001
-			public const int app_name = 2130903041;
+			// aapt resource value: 0x7f060001
+			public const int app_name = 2131099649;
 			
-			// aapt resource value: 0x7f030000
-			public const int hello = 2130903040;
+			// aapt resource value: 0x7f060000
+			public const int hello = 2131099648;
 			
 			static String()
 			{
@@ -72,6 +201,92 @@ namespace MaterialCalendarSample
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Style
+		{
+			
+			// aapt resource value: 0x7f050000
+			public const int TextAppearance_MaterialCalendarWidget_Date = 2131034112;
+			
+			// aapt resource value: 0x7f050001
+			public const int TextAppearance_MaterialCalendarWidget_Header = 2131034113;
+			
+			// aapt resource value: 0x7f050002
+			public const int TextAppearance_MaterialCalendarWidget_WeekDay = 2131034114;
+			
+			static Style()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Style()
+			{
+			}
+		}
+		
+		public partial class Styleable
+		{
+			
+			public static int[] MaterialCalendarView = new int[]
+			{
+					2130771968,
+					2130771969,
+					2130771970,
+					2130771971,
+					2130771972,
+					2130771973,
+					2130771974,
+					2130771975,
+					2130771976,
+					2130771977,
+					2130771978,
+					2130771979};
+			
+			// aapt resource value: 3
+			public const int MaterialCalendarView_mcv_arrowColor = 3;
+			
+			// aapt resource value: 0
+			public const int MaterialCalendarView_mcv_dateTextAppearance = 0;
+			
+			// aapt resource value: 11
+			public const int MaterialCalendarView_mcv_firstDayOfWeek = 11;
+			
+			// aapt resource value: 2
+			public const int MaterialCalendarView_mcv_headerTextAppearance = 2;
+			
+			// aapt resource value: 4
+			public const int MaterialCalendarView_mcv_leftArrowMask = 4;
+			
+			// aapt resource value: 9
+			public const int MaterialCalendarView_mcv_monthLabels = 9;
+			
+			// aapt resource value: 5
+			public const int MaterialCalendarView_mcv_rightArrowMask = 5;
+			
+			// aapt resource value: 6
+			public const int MaterialCalendarView_mcv_selectionColor = 6;
+			
+			// aapt resource value: 7
+			public const int MaterialCalendarView_mcv_showOtherDates = 7;
+			
+			// aapt resource value: 10
+			public const int MaterialCalendarView_mcv_tileSize = 10;
+			
+			// aapt resource value: 8
+			public const int MaterialCalendarView_mcv_weekDayLabels = 8;
+			
+			// aapt resource value: 1
+			public const int MaterialCalendarView_mcv_weekDayTextAppearance = 1;
+			
+			static Styleable()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Styleable()
 			{
 			}
 		}
