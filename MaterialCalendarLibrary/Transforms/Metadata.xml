@@ -1,8 +1,10 @@
 ﻿<metadata>
+<!--<attr path="/api/package[@name='com.prolificinteractive.materialcalendarview']/class[@name='MonthView']" name="visibility">public</attr>-->
 <attr path="/api/package[@name='com.prolificinteractive.materialcalendarview']/class[@name='CalendarPagerView']" name="visibility">public</attr>
 <attr path="/api/package[@name='com.prolificinteractive.materialcalendarview']/class[@name='DayView']" name="visibility">public</attr>
 <attr path="/api/package[@name='com.prolificinteractive.materialcalendarview']/class[@name='CalendarPagerView.LayoutParams']" name="visibility">public</attr>
 <attr path="/api/package[@name='com.prolificinteractive.materialcalendarview']/class[@name='DayView']" name="visibility">public</attr>
+
 
 <attr path="/api/package[@name='com.prolificinteractive.materialcalendarview']/class[@name='CalendarPagerAdapter']" name="visibility">public</attr>
 <attr path="/api/package[@name='com.prolificinteractive.materialcalendarview']/interface[@name='DateRangeIndex']" name="visibility">public</attr>

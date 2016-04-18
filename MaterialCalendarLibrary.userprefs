@@ -1,17 +1,13 @@
 ﻿<Properties StartupItem="MaterialCalendarSample/MaterialCalendarSample.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MaterialCalendarSample/obj/Debug/resourcecache/CE744280BEFA27BDE3038A0A6E55EC7F/res/layout/abc_screen_toolbar.xml">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MaterialCalendarLibrary/Transforms/Metadata.xml">
     <Files>
-      <File FileName="MaterialCalendarLibrary/Transforms/Metadata.xml" Line="1" Column="1" />
+      <File FileName="MaterialCalendarLibrary/Transforms/Metadata.xml" Line="20" Column="1" />
       <File FileName="MaterialCalendarLibrary/Transforms/EnumFields.xml" Line="1" Column="1" />
       <File FileName="MaterialCalendarLibrary/obj/Release/generated/src/MaterialCalendarLibrary.WeekPagerAdapter.cs" Line="1" Column="1" />
-      <File FileName="MaterialCalendarSample/MainActivity.cs" Line="24" Column="1" />
-      <File FileName="../../../../Projects/MaterialCalendarLibrary/MaterialCalendarLibrary/obj/Release/generated/src/MaterialCalendarLibrary.MaterialCalendarView.cs" Line="1" Column="1" />
-      <File FileName="MaterialCalendarLibrary/obj/Debug/generated/src/MaterialCalendarLibrary.MaterialCalendarView.cs" Line="1" Column="1" />
-      <File FileName="MaterialCalendarSample/Resources/values/Styles.xml" Line="16" Column="74" />
-      <File FileName="MaterialCalendarSample/Properties/AndroidManifest.xml" Line="4" Column="73" />
-      <File FileName="../fingentconnect/FingentConnect/Droid/Resources/values/Styles.xml" Line="108" Column="1" />
-      <File FileName="MaterialCalendarSample/obj/Debug/resourcecache/CE744280BEFA27BDE3038A0A6E55EC7F/res/layout/abc_screen_toolbar.xml" Line="28" Column="1" />
+      <File FileName="MaterialCalendarSample/MainActivity.cs" Line="48" Column="2" />
+      <File FileName="../fingentconnect/FingentConnect/Droid/Resources/layout/DashboardLayout.axml" Line="1" Column="1" />
+      <File FileName="MaterialCalendarSample/obj/Debug/android/src/md56fd5622393123d59c6c51d78708f2ed2/CustomCalendarPagerView.java" Line="5" Column="54" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,17 +15,12 @@
           <Node name="MaterialCalendarLibrary" expanded="True">
             <Node name="MaterialCalendarLibrary" expanded="True">
               <Node name="Packages" expanded="True" />
-              <Node name="Additions" expanded="True" />
-              <Node name="Jars" expanded="True" />
               <Node name="Transforms" expanded="True" />
             </Node>
             <Node name="MaterialCalendarSample" expanded="True" selected="True">
               <Node name="References" expanded="True" />
-              <Node name="Packages" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="Resources" expanded="True">
-                <Node name="values" expanded="True" />
-              </Node>
+              <Node name="Resources" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -42,4 +33,5 @@
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MaterialCalendarSample AndroidDesignerPreferredDevice="Nexus 4" />
 </Properties>
