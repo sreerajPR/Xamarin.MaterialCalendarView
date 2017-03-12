@@ -29,6 +29,11 @@
 
 <attr path="/api/package[@name='com.prolificinteractive.materialcalendarview']/class[@name='WeekPagerAdapter']/method[@name='getSelectedDates' and count(parameter)=0]" name="return">java.util.List&lt;com.prolificinteractive.materialcalendarview.CalendarDay&gt;</attr>
 
+<attr path="/api/package[@name='com.prolificinteractive.materialcalendarview']/class[@name='MaterialCalendarView.State']" name="visibility">public</attr>
+<attr path="/api/package[@name='com.prolificinteractive.materialcalendarview']/class[@name='MaterialCalendarView.StateBuilder']" name="visibility">public</attr>
+
+<attr path="/api/package[@name='com.prolificinteractive.materialcalendarview']/class[@name='MaterialCalendarView']/method[@name='state']" name="managedName">CurrentState</attr>
+  
 			<!--
   This sample removes the class: android.support.v4.content.AsyncTaskLoader.LoadTask:
   <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='AsyncTaskLoader.LoadTask']" />
